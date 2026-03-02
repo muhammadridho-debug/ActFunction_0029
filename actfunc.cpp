@@ -19,3 +19,9 @@ void output()
 {
     cout << "Hasilnya : " << luasLingkaran(jarijari, phi);
 }
+
+int main()
+{
+    input();
+    output();
+}
