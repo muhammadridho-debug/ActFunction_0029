@@ -9,3 +9,8 @@ void input()
     cout << "Masukkan Jari-Jari :";
     cin >> jarijari;
 }
+
+float luasLingkaran(int a, float b)
+{
+    return a * a * b;
+}
