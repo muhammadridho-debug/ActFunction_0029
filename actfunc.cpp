@@ -14,3 +14,8 @@ float luasLingkaran(int a, float b)
 {
     return a * a * b;
 }
+
+void output()
+{
+    cout << "Hasilnya : " << luasLingkaran(jarijari, phi);
+}
