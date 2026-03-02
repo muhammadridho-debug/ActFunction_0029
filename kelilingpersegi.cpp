@@ -20,3 +20,8 @@ int luasPersegi(int a, int b)
 {
     return a * b;
 }
+
+void output()
+{
+    cout << "Luasnya : " << luasPersegi(panjang, lebar) << endl;
+}
